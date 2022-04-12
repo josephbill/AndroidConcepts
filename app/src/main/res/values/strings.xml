@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidJoseph</string>
+    <string name="email">Enter Email Address</string>
+    <string name="password">Enter New Password</string>
+    <string name="postname">Enter Name</string>
+    <string name="job">Job</string>
+</resources>

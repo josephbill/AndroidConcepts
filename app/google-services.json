@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466017294154",
+    "project_id": "androidjoseph-5173a",
+    "storage_bucket": "androidjoseph-5173a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466017294154:android:d19294b922dd4bb5e593b3",
+        "android_client_info": {
+          "package_name": "com.example.androidjoseph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466017294154-c0m7rq530ur310o68sd1tc5v8kic91rv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaO8LsMUQRwhuEis8yQnZCr3mn-CULnUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466017294154-c0m7rq530ur310o68sd1tc5v8kic91rv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
